@@ -1,0 +1,15 @@
+{
+  "name": "FSZ TECH",
+  "description": "Technology is evolving rapidly. The future gadgets are now available and helping lots of people. Check some awesome gadgets and innovation. Explore the latest gadgets and become Gadget Guru of your group.",
+  "launch_path": "/index.html",
+  "icons": {
+    "128": "/images/icon-128.png",
+    "512": "/images/icon-512.png"
+  },
+  "version": "1.0.0",
+  "developer": {
+    "name": "Funspellz",
+    "url": "http://www.fsztech.com"
+  }
+ 
+}

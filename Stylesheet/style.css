@@ -1,0 +1,152 @@
+
+
+@font-face {
+    font-family: "AnjelikaRoseThin";
+    src: url("fonts/AnjelikaRoseThin.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: "IMMORTAL";
+    src: url("fonts/IMMORTAL.ttf") format("truetype");
+}
+
+body {
+
+background-color:#fff;
+background-size:16px 16px;
+max-width:device-width;
+max-height: inherit;
+margin:auto;
+}
+
+
+
+
+
+
+
+
+.ads {
+width:auto;
+height: 50px;
+position: sticky;
+top: 0px;
+align-content: center;
+clear: both;
+margin: auto;
+background-color: transparent;
+
+
+}
+label {
+
+letter-spacing: 2px;
+text-align: center;
+font-weight: bold;
+color: white;
+font-family: AnjelikaRoseThin,IMMORTAL,fantasy;
+font-size-adjust: auto;
+
+}
+
+label a {
+color:beige;
+font-size: 1em;
+text-decoration: none;
+
+
+
+}
+
+.maxwidth{
+
+max-width: 95%;
+margin-left: auto;
+margin-right:auto;
+padding: 10px;
+
+}
+.aboutpage {
+
+text-align: center;
+}
+.about{
+width:35px;
+height:35px;
+margin-right: 0px;
+padding: 15px 15px 15px 15px;
+text-align: center;
+font-size: 2em;
+background:linear-gradient(#1E8FC8,#15214C);
+border: 2px dashed #fff;
+border-collapse: collapse;
+border-radius: 50px;
+text-decoration: none;
+box-shadow: 0 0 30px beige;
+color: beige;
+font-family: AnjelikaRoseThin,IMMORTAL,fantasy;
+}
+
+.social{
+text-align: right;
+
+
+
+}
+.social img{
+text-align: right;
+box-shadow: 2px 2px 20px beige;
+border: 2px dashed #fff;
+border-radius: 10px
+
+}
+
+.sticky_nav{
+background: linear-gradient(black,#15214C);
+box-shadow:2px 1px 6px 3px  ;
+position: fixed;
+bottom: 1px;
+width: 100%;
+
+}
+
+
+.sticky_nav img{
+margin: auto;
+width: 50px;
+height: 50px;
+padding-left: 4%;
+padding-right: 4%;
+padding-top: 3px;
+padding-bottom: 1px;
+}
+
+img{
+
+border-collapse: collapse;
+border-radius: 5px;
+
+
+}
+.backb{
+position: fixed;
+top: 20px;  
+left: 4px;
+width: 46px;
+height: 46px;
+
+}
+.randomb{
+position: fixed;
+top: 20px;  
+right: 7px;
+width: 46px;
+height: 46px;
+
+}
+
+.logo{
+
+box-shadow: 2px 2px 2px 2px black,2px 2px 2px 2px transparent;
+
+}
